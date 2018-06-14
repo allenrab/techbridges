@@ -1,0 +1,29 @@
+h1, h2, h3 {
+  color: #4C5B5C;
+}
+
+p {
+  font-size: 20px;
+  font-family: 'Song Myung', serif;
+}
+
+.bio h2 {
+  color: black;
+}
+
+.menu ul {
+  list-style-type: none;
+  display: inline-flex;
+}
+
+.menu li {
+  padding: 10px;
+}
+
+.menu a {
+  text-decoration: none;
+}
+
+.menu a:hover {
+  font-weight: bold;
+}
